@@ -3,7 +3,7 @@ package edu.ncat.university;
 public class Person {
     protected String firstName;
     protected String lastName;
-
+//Constructor
     public Person(){
 
     }
